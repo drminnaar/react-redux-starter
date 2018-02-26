@@ -4,6 +4,8 @@
 
 A basic template that consists of the essential elements that are required to start building a Single Page Application using React, React Router, Redux, Bootstrap 4, Sass, and Webpack.
 
+Although I am calling this project a template of sorts, it is also a mini application in that it demonstrates a full verticle slice of the architecture. What this means, is that there is an example of Redux and React-Router in action. I kept the example simple by providing data via a _'Zip Code JSON file'_.
+
 The template consists of:
 
 * a typcial project layout structure
