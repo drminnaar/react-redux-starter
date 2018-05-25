@@ -8,7 +8,8 @@ const config = {
     entry: './src/index.js',
     output: {
         filename: 'bundle.js',
-        path: commonPaths.outputPath
+        path: commonPaths.outputPath,
+        publicPath: '/'
     },
     module: {
         rules: [
