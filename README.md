@@ -8,7 +8,7 @@ Although I am calling this project a template of sorts, it is also a mini applic
 
 The template consists of:
 
-* a typcial project layout structure
+* a typical project layout structure
 * a Babel setup and configuration
 * a Webpack setup and configuration
 * an ESLint setup and configuration
@@ -46,7 +46,7 @@ The template also allows one to include specific plugins as part of build. [Plea
 * [Redux-Thunk] - Thunk middleware for Redux
 * [Babel](https://babeljs.io/) - A transpiler for javascript
 * [Webpack](https://webpack.js.org/) - A module bundler
-* [SCSS](http://sass-lang.com/) - A css metalanguage
+* [SCSS](http://sass-lang.com/) - A css meta language
 * [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 * [Surge] - Static web publishing for Front-End Developers
 
